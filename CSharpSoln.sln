@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeProj", "ThreeProj\ThreeProj.csproj", "{D3FC3F6E-8D81-49A9-AA1D-C686D7E2CA77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeProjTests", "ThreeProjTests\ThreeProjTests.csproj", "{38848718-133B-4A14-A41F-EDF026852D59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3FC3F6E-8D81-49A9-AA1D-C686D7E2CA77}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D3FC3F6E-8D81-49A9-AA1D-C686D7E2CA77}.Debug|x86.Build.0 = Debug|Any CPU
+		{D3FC3F6E-8D81-49A9-AA1D-C686D7E2CA77}.Release|x86.ActiveCfg = Release|Any CPU
+		{D3FC3F6E-8D81-49A9-AA1D-C686D7E2CA77}.Release|x86.Build.0 = Release|Any CPU
+		{38848718-133B-4A14-A41F-EDF026852D59}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{38848718-133B-4A14-A41F-EDF026852D59}.Debug|x86.Build.0 = Debug|Any CPU
+		{38848718-133B-4A14-A41F-EDF026852D59}.Release|x86.ActiveCfg = Release|Any CPU
+		{38848718-133B-4A14-A41F-EDF026852D59}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
